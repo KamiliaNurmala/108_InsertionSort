@@ -2,6 +2,7 @@
 using namespace std;
 
 void insertionSort() {
-	int j, i, n, temp, arr[11];
+	int j, i, n, temp;
+	int	arr[11];
 
 }
